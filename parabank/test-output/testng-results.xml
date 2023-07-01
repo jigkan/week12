@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[account ctreated textBy.xpath: //div[@id='rightPanel']/p]]>
+    </line>
+    <line>
+      <![CDATA[get welcome textBy.xpath: //div[@id='rightPanel']/h1]]>
+    </line>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="23693" started-at="2023-06-27T23:06:03 BST" finished-at="2023-06-27T23:06:26 BST">
+    <groups>
+    </groups>
+    <test name="parabank" duration-ms="23693" started-at="2023-06-27T23:06:03 BST" finished-at="2023-06-27T23:06:26 BST">
+      <class name="com.parabank.testsuite.RegisterPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.parabank.testsuite.RegisterPageTest@3fd7a715]" name="setUp" is-config="true" duration-ms="10222" started-at="2023-06-27T23:06:03 BST" finished-at="2023-06-27T23:06:13 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="userSholdRegisterAccountSuccessfully()[pri:0, instance:com.parabank.testsuite.RegisterPageTest@3fd7a715]" name="userSholdRegisterAccountSuccessfully" duration-ms="3428" started-at="2023-06-27T23:06:13 BST" finished-at="2023-06-27T23:06:16 BST">
+          <reporter-output>
+            <line>
+              <![CDATA[account ctreated textBy.xpath: //div[@id='rightPanel']/p]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- userSholdRegisterAccountSuccessfully -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.parabank.testsuite.RegisterPageTest@3fd7a715]" name="setUp" is-config="true" duration-ms="9018" started-at="2023-06-27T23:06:16 BST" finished-at="2023-06-27T23:06:26 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyThatSigningUpPageDisplay()[pri:0, instance:com.parabank.testsuite.RegisterPageTest@3fd7a715]" name="verifyThatSigningUpPageDisplay" duration-ms="913" started-at="2023-06-27T23:06:26 BST" finished-at="2023-06-27T23:06:26 BST">
+          <reporter-output>
+            <line>
+              <![CDATA[get welcome textBy.xpath: //div[@id='rightPanel']/h1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyThatSigningUpPageDisplay -->
+      </class> <!-- com.parabank.testsuite.RegisterPageTest -->
+    </test> <!-- parabank -->
+  </suite> <!-- Default Suite -->
+</testng-results>

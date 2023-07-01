@@ -1,0 +1,114 @@
+<html>
+<head>
+<title>TestNG:  nopcommerce</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>nopcommerce</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>2/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Tue Jun 27 22:48:04 BST 2023</td>
+</tr>
+<tr><td>Total time:</td><td>38 seconds (38635 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.nopcommerce.demo.testsuite.ComputerPageTest.verifyProductAddedToShoppingCartSuccessFully()'><b>verifyProductAddedToShoppingCartSuccessFully</b><br>Test class: com.nopcommerce.demo.testsuite.ComputerPageTest<br/>
+<a href="#Output-1467515503" onClick='toggleBox("Output-1467515503", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1467515503" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1467515503">
+biult textBy.xpath: //div[@class='center-1']/div[1]/div[1]/form[1]/div[2]/div[1]/div[2]/div[1]/h1<br/>
+price textBy.xpath: //div[@class='product-price']/span[1]<br/>
+aad to cart textBy.id: add-to-cart-button-1<br/>
+shopping cart msg textBy.xpath: //div[@class='master-wrapper-content']/div[1]/div[1]/div[1]/div[1]/h1<br/>
+total textBy.xpath: //div[@class='center-1']/div[1]/div[2]/div[1]/form[1]/div[1]/table[1]/tbody/tr[1]/td[6]/span[1]<br/>
+get welcome textBy.xpath: //div[@class='master-wrapper-content']/div[1]/div[1]/div[1]/div[1]/h1<br/>
+payment textBy.xpath: //div[@id='checkout-step-confirm-order']/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[1]/span[2]<br/>
+shipping textBy.xpath: //div[@class='cart-footer']/div/div[1]/table/tbody/tr[2]/td/span[1]<br/>
+total textBy.xpath: //div[@class='cart-footer']/div/div[1]/table/tbody/tr[4]/td[2]/span[1]<br/>
+thank textBy.xpath: //div[@class='master-wrapper-page']/div[3]/div[1]/div[1]/div[1]/div[1]/h1<br/>
+success textBy.xpath: //div[@class='center-1']/div[1]/div[2]/div[1]/div[1]<br/>
+get welcome textBy.xpath: //div[@class='topic-block-title']/h2<br/>
+</div>
+</td>
+<td></td>
+<td>20</td>
+<td>com.nopcommerce.demo.testsuite.ComputerPageTest@71bbf57e</td></tr>
+<tr>
+<td title='com.nopcommerce.demo.testsuite.ComputerPageTest.name()'><b>name</b><br>Test class: com.nopcommerce.demo.testsuite.ComputerPageTest<br/>
+<a href="#Output-1552221437" onClick='toggleBox("Output-1552221437", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1552221437" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1552221437">
+discending order textBy.xpath: //select[@id='products-orderby']/option[3]<br/>
+</div>
+</td>
+<td></td>
+<td>2</td>
+<td>com.nopcommerce.demo.testsuite.ComputerPageTest@71bbf57e</td></tr>
+</table><p>
+</body>
+</html>

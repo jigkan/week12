@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default Suite]">
+  <test thread-count="5" name="parabank(failed)">
+    <classes>
+      <class name="com.parabank.testsuite.LoginPageTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="userShouldLogOutSuccessfully"/>
+        </methods>
+      </class> <!-- com.parabank.testsuite.LoginPageTest -->
+    </classes>
+  </test> <!-- parabank(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->

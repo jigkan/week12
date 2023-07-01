@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[discending order textBy.xpath: //select[@id='products-orderby']/option[3]]]>
+    </line>
+    <line>
+      <![CDATA[biult textBy.xpath: //div[@class='center-1']/div[1]/div[1]/form[1]/div[2]/div[1]/div[2]/div[1]/h1]]>
+    </line>
+    <line>
+      <![CDATA[price textBy.xpath: //div[@class='product-price']/span[1]]]>
+    </line>
+    <line>
+      <![CDATA[aad to cart textBy.id: add-to-cart-button-1]]>
+    </line>
+    <line>
+      <![CDATA[shopping cart msg textBy.xpath: //div[@class='master-wrapper-content']/div[1]/div[1]/div[1]/div[1]/h1]]>
+    </line>
+    <line>
+      <![CDATA[total textBy.xpath: //div[@class='center-1']/div[1]/div[2]/div[1]/form[1]/div[1]/table[1]/tbody/tr[1]/td[6]/span[1]]]>
+    </line>
+    <line>
+      <![CDATA[get welcome textBy.xpath: //div[@class='master-wrapper-content']/div[1]/div[1]/div[1]/div[1]/h1]]>
+    </line>
+    <line>
+      <![CDATA[payment textBy.xpath: //div[@id='checkout-step-confirm-order']/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[1]/span[2]]]>
+    </line>
+    <line>
+      <![CDATA[shipping textBy.xpath: //div[@class='cart-footer']/div/div[1]/table/tbody/tr[2]/td/span[1]]]>
+    </line>
+    <line>
+      <![CDATA[total textBy.xpath: //div[@class='cart-footer']/div/div[1]/table/tbody/tr[4]/td[2]/span[1]]]>
+    </line>
+    <line>
+      <![CDATA[thank textBy.xpath: //div[@class='master-wrapper-page']/div[3]/div[1]/div[1]/div[1]/div[1]/h1]]>
+    </line>
+    <line>
+      <![CDATA[success textBy.xpath: //div[@class='center-1']/div[1]/div[2]/div[1]/div[1]]]>
+    </line>
+    <line>
+      <![CDATA[get welcome textBy.xpath: //div[@class='topic-block-title']/h2]]>
+    </line>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="38635" started-at="2023-06-27T22:48:04 BST" finished-at="2023-06-27T22:48:43 BST">
+    <groups>
+    </groups>
+    <test name="nopcommerce" duration-ms="38635" started-at="2023-06-27T22:48:04 BST" finished-at="2023-06-27T22:48:43 BST">
+      <class name="com.nopcommerce.demo.testsuite.ComputerPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.nopcommerce.demo.testsuite.ComputerPageTest@71bbf57e]" name="setUp" is-config="true" duration-ms="9411" started-at="2023-06-27T22:48:04 BST" finished-at="2023-06-27T22:48:14 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="name()[pri:0, instance:com.nopcommerce.demo.testsuite.ComputerPageTest@71bbf57e]" name="name" duration-ms="2334" started-at="2023-06-27T22:48:14 BST" finished-at="2023-06-27T22:48:16 BST">
+          <reporter-output>
+            <line>
+              <![CDATA[discending order textBy.xpath: //select[@id='products-orderby']/option[3]]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- name -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.nopcommerce.demo.testsuite.ComputerPageTest@71bbf57e]" name="setUp" is-config="true" duration-ms="6058" started-at="2023-06-27T22:48:16 BST" finished-at="2023-06-27T22:48:22 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyProductAddedToShoppingCartSuccessFully()[pri:0, instance:com.nopcommerce.demo.testsuite.ComputerPageTest@71bbf57e]" name="verifyProductAddedToShoppingCartSuccessFully" duration-ms="20691" started-at="2023-06-27T22:48:22 BST" finished-at="2023-06-27T22:48:43 BST">
+          <reporter-output>
+            <line>
+              <![CDATA[biult textBy.xpath: //div[@class='center-1']/div[1]/div[1]/form[1]/div[2]/div[1]/div[2]/div[1]/h1]]>
+            </line>
+            <line>
+              <![CDATA[price textBy.xpath: //div[@class='product-price']/span[1]]]>
+            </line>
+            <line>
+              <![CDATA[aad to cart textBy.id: add-to-cart-button-1]]>
+            </line>
+            <line>
+              <![CDATA[shopping cart msg textBy.xpath: //div[@class='master-wrapper-content']/div[1]/div[1]/div[1]/div[1]/h1]]>
+            </line>
+            <line>
+              <![CDATA[total textBy.xpath: //div[@class='center-1']/div[1]/div[2]/div[1]/form[1]/div[1]/table[1]/tbody/tr[1]/td[6]/span[1]]]>
+            </line>
+            <line>
+              <![CDATA[get welcome textBy.xpath: //div[@class='master-wrapper-content']/div[1]/div[1]/div[1]/div[1]/h1]]>
+            </line>
+            <line>
+              <![CDATA[payment textBy.xpath: //div[@id='checkout-step-confirm-order']/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[1]/span[2]]]>
+            </line>
+            <line>
+              <![CDATA[shipping textBy.xpath: //div[@class='cart-footer']/div/div[1]/table/tbody/tr[2]/td/span[1]]]>
+            </line>
+            <line>
+              <![CDATA[total textBy.xpath: //div[@class='cart-footer']/div/div[1]/table/tbody/tr[4]/td[2]/span[1]]]>
+            </line>
+            <line>
+              <![CDATA[thank textBy.xpath: //div[@class='master-wrapper-page']/div[3]/div[1]/div[1]/div[1]/div[1]/h1]]>
+            </line>
+            <line>
+              <![CDATA[success textBy.xpath: //div[@class='center-1']/div[1]/div[2]/div[1]/div[1]]]>
+            </line>
+            <line>
+              <![CDATA[get welcome textBy.xpath: //div[@class='topic-block-title']/h2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyProductAddedToShoppingCartSuccessFully -->
+      </class> <!-- com.nopcommerce.demo.testsuite.ComputerPageTest -->
+    </test> <!-- nopcommerce -->
+  </suite> <!-- Default Suite -->
+</testng-results>

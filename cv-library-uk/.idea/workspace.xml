@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="77d76f1f-e096-42e3-bd62-5f65711cf31e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/week12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/customlisteners/CustomListeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/driverfactory/ManageDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/excelutility/ExcelRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/excelutility/ExcelUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/pages/ComputerPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/pages/ResultPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/propertiesfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/propertiesfile/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/runners/kruti1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/runners/listeners.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/runners/parallel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/runners/parameters.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/runners/regssion.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/runners/reportng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/runners/sanity.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/runners/smoke.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/runners/testngdemo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/testdata/ExcelData.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/testdata/ExcelRead.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/testdata/TestData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/uk/co/library/testbase/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/uk/co/library/testng/RetryAnalyser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/uk/co/library/testng/TestNGDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/uk/co/library/testng/TestNGGrouping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/uk/co/library/testng/TestNGListeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/uk/co/library/testng/TestNGListenersDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/uk/co/library/testng/TestNGParameterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/uk/co/library/testng/TestNGPriority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/uk/co/library/testng/TestNGRetryFailedDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/uk/co/library/testng/TestNGSoftAssert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/uk/co/library/testsuite/ComputerPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/uk/co/library/testsuite/Dataset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/uk/co/library/testsuite/JobSearchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/uk/co/library/testsuite/LoginPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/uk/co/library/testsuite/LoginPageTestWithDataProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/uk/co/library/testsuite/LoginPageTestWithParameterAndParallel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/uk/co/library/testsuite/LoginTestWithExcelData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/uk/co/library/testsuite/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/uk/co/library/testsuite/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/main/java/gov/uk/check/visa/Pages/ComputerPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/main/java/gov/uk/check/visa/Pages/DurationOfStayPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/main/java/gov/uk/check/visa/Pages/FamilyImmigrationStatusPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/main/java/gov/uk/check/visa/Pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/main/java/gov/uk/check/visa/Pages/ReasonForTravelPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/main/java/gov/uk/check/visa/Pages/ResultPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/main/java/gov/uk/check/visa/Pages/SelectNationalityPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/main/java/gov/uk/check/visa/Pages/StartPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/main/java/gov/uk/check/visa/Pages/WorkTypePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/main/java/gov/uk/check/visa/driverfactory/ManageDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/main/java/gov/uk/check/visa/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/main/java/gov/uk/check/visa/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/gov/uk/check/visa/testbase/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/gov/uk/check/visa/testng/RetryAnalyser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/gov/uk/check/visa/testng/TestNGDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/gov/uk/check/visa/testng/TestNGGrouping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/gov/uk/check/visa/testng/TestNGListeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/gov/uk/check/visa/testng/TestNGListenersDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/gov/uk/check/visa/testng/TestNGParameterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/gov/uk/check/visa/testng/TestNGPriority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/gov/uk/check/visa/testng/TestNGRetryFailedDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/gov/uk/check/visa/testng/TestNGSoftAssert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/gov/uk/check/visa/testsuite/ComputerPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/gov/uk/check/visa/testsuite/Dataset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/gov/uk/check/visa/testsuite/JobSearchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/gov/uk/check/visa/testsuite/LoginPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/gov/uk/check/visa/testsuite/LoginPageTestWithDataProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/gov/uk/check/visa/testsuite/LoginPageTestWithParameterAndParallel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/gov/uk/check/visa/testsuite/LoginTestWithExcelData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/gov/uk/check/visa/testsuite/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/gov/uk/check/visa/testsuite/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/gov/uk/check/visa/testsuite/VisaConfirmationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/resources/propertiesfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/resources/propertiesfile/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/resources/runners/kruti1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/resources/runners/listeners.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/resources/runners/parallel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/resources/runners/parameters.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/resources/runners/regssion.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/resources/runners/reportng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/resources/runners/sanity.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/resources/runners/smoke.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/resources/runners/testngdemo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/resources/testdata/ExcelData.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/resources/testdata/ExcelRead.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/resources/testdata/TestData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nopcommerce/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nopcommerce/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nopcommerce/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nopcommerce/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nopcommerce/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nopcommerce/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nopcommerce/src/test/java/resources/propertiesfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nopcommerce/src/test/java/resources/propertiesfile/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nopcommerce/src/test/java/resources/runners/kruti1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nopcommerce/src/test/java/resources/runners/listeners.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nopcommerce/src/test/java/resources/runners/parallel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nopcommerce/src/test/java/resources/runners/parameters.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nopcommerce/src/test/java/resources/runners/regssion.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nopcommerce/src/test/java/resources/runners/reportng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nopcommerce/src/test/java/resources/runners/sanity.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nopcommerce/src/test/java/resources/runners/smoke.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nopcommerce/src/test/java/resources/runners/testngdemo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nopcommerce/src/test/java/resources/testdata/ExcelData.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nopcommerce/src/test/java/resources/testdata/ExcelRead.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nopcommerce/src/test/java/resources/testdata/TestData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parabank/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parabank/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parabank/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parabank/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parabank/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parabank/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parabank/src/main/java/com/parabank/customlisteners/CustomListeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parabank/src/main/java/com/parabank/driverfactory/ManageDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parabank/src/main/java/com/parabank/excelutility/ExcelRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parabank/src/main/java/com/parabank/excelutility/ExcelUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parabank/src/main/java/com/parabank/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parabank/src/main/java/com/parabank/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parabank/src/main/java/com/parabank/pages/RegisterPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parabank/src/main/java/com/parabank/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parabank/src/test/java/com/parabank/testbase/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parabank/src/test/java/com/parabank/testng/RetryAnalyser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parabank/src/test/java/com/parabank/testng/TestNGDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parabank/src/test/java/com/parabank/testng/TestNGGrouping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parabank/src/test/java/com/parabank/testng/TestNGListeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parabank/src/test/java/com/parabank/testng/TestNGListenersDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parabank/src/test/java/com/parabank/testng/TestNGParameterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parabank/src/test/java/com/parabank/testng/TestNGPriority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parabank/src/test/java/com/parabank/testng/TestNGRetryFailedDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parabank/src/test/java/com/parabank/testng/TestNGSoftAssert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parabank/src/test/java/com/parabank/testsuite/LoginPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parabank/src/test/java/com/parabank/testsuite/LoginPageTestWithDataProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parabank/src/test/java/com/parabank/testsuite/LoginPageTestWithParameterAndParallel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parabank/src/test/java/com/parabank/testsuite/LoginTestWithExcelData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parabank/src/test/java/com/parabank/testsuite/RegisterPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parabank/src/test/java/com/parabank/testsuite/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parabank/src/test/java/com/parabank/testsuite/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parabank/src/test/java/resources/propertiesfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parabank/src/test/java/resources/propertiesfile/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parabank/src/test/java/resources/runners/listeners.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parabank/src/test/java/resources/runners/login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parabank/src/test/java/resources/runners/parallel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parabank/src/test/java/resources/runners/parameters.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parabank/src/test/java/resources/runners/reportng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parabank/src/test/java/resources/runners/sanity.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parabank/src/test/java/resources/runners/smoke.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parabank/src/test/java/resources/runners/testngdemo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parabank/src/test/java/resources/testdata/ExcelData.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parabank/src/test/java/resources/testdata/ExcelRead.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parabank/src/test/java/resources/testdata/TestData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/src/main/java/com/tutorialsninja/customlisteners/CustomListeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/src/main/java/com/tutorialsninja/desktops/Descktopspage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/src/main/java/com/tutorialsninja/driverfactory/ManageDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/src/main/java/com/tutorialsninja/excelutility/ExcelRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/src/main/java/com/tutorialsninja/excelutility/ExcelUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/src/main/java/com/tutorialsninja/homepage/TopMenuPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/src/main/java/com/tutorialsninja/laptopsandnotebooks/LaptopsAndNotebooksPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/src/main/java/com/tutorialsninja/myaccounts/MyAccountPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/src/main/java/com/tutorialsninja/pages/ComputerPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/src/main/java/com/tutorialsninja/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/src/main/java/com/tutorialsninja/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/src/main/java/com/tutorialsninja/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/src/test/java/com/tutorialsninja/testbase/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/src/test/java/com/tutorialsninja/testng/RetryAnalyser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/src/test/java/com/tutorialsninja/testng/TestNGDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/src/test/java/com/tutorialsninja/testng/TestNGGrouping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/src/test/java/com/tutorialsninja/testng/TestNGListeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/src/test/java/com/tutorialsninja/testng/TestNGListenersDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/src/test/java/com/tutorialsninja/testng/TestNGParameterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/src/test/java/com/tutorialsninja/testng/TestNGPriority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/src/test/java/com/tutorialsninja/testng/TestNGRetryFailedDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/src/test/java/com/tutorialsninja/testng/TestNGSoftAssert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/src/test/java/com/tutorialsninja/testsuite/ComputerPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/src/test/java/com/tutorialsninja/testsuite/DesktopsPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/src/test/java/com/tutorialsninja/testsuite/LaptopsAndNotebooksTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/src/test/java/com/tutorialsninja/testsuite/LoginPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/src/test/java/com/tutorialsninja/testsuite/LoginPageTestWithDataProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/src/test/java/com/tutorialsninja/testsuite/LoginPageTestWithParameterAndParallel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/src/test/java/com/tutorialsninja/testsuite/LoginTestWithExcelData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/src/test/java/com/tutorialsninja/testsuite/MyAccountPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/src/test/java/com/tutorialsninja/testsuite/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/src/test/java/com/tutorialsninja/testsuite/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/src/test/java/com/tutorialsninja/testsuite/TopMenuPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/src/test/java/resources/propertiesfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/src/test/java/resources/propertiesfile/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/src/test/java/resources/runners/kruti1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/src/test/java/resources/runners/listeners.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/src/test/java/resources/runners/parallel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/src/test/java/resources/runners/parameters.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/src/test/java/resources/runners/regssion.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/src/test/java/resources/runners/reportng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/src/test/java/resources/runners/sanity.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/src/test/java/resources/runners/smoke.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/src/test/java/resources/runners/testngdemo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/src/test/java/resources/testdata/ExcelData.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/src/test/java/resources/testdata/ExcelRead.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tutorialsninja/src/test/java/resources/testdata/TestData.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2RhbSjGg25JiTYwqD8DGNg6mn9W" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Homework/week12/cv-library-uk"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Homework\week12\cv-library-uk\src\test\java" />
+      <recent name="C:\Homework\week12\cv-library-uk\src\test\java\uk\co\library" />
+      <recent name="C:\Homework\week12\cv-library-uk\src\main\java\uk\co\library" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.JobSearchTest">
+    <configuration name="JobSearchTest" type="TestNG" nameIsGenerated="true">
+      <module name="cv-library-uk" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uk.co.library.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="uk.co.library.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="uk.co.library.testsuite.JobSearchTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JobSearchTest.verifyJobSearchResultUsingDifferentDataSet" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="cv-library-uk" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uk.co.library.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="uk.co.library.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="uk.co.library.testsuite.JobSearchTest" />
+      <option name="METHOD_NAME" value="verifyJobSearchResultUsingDifferentDataSet" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.JobSearchTest.verifyJobSearchResultUsingDifferentDataSet" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77d76f1f-e096-42e3-bd62-5f65711cf31e" name="Changes" comment="" />
+      <created>1687705267857</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687705267857</updated>
+    </task>
+    <servers />
+  </component>
+</project>

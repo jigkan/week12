@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="13257" started-at="2023-07-01T00:36:34 BST" finished-at="2023-07-01T00:36:47 BST">
+    <groups>
+    </groups>
+    <test name="home-office-visa-check" duration-ms="13257" started-at="2023-07-01T00:36:34 BST" finished-at="2023-07-01T00:36:47 BST">
+      <class name="gov.uk.check.visa.testsuite.VisaConfirmationTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@23faf8f2]" name="setUp" is-config="true" duration-ms="11305" started-at="2023-07-01T00:36:34 BST" finished-at="2023-07-01T00:36:45 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="anAustralianCominToUKForTourism()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@23faf8f2]" name="anAustralianCominToUKForTourism" duration-ms="1724" started-at="2023-07-01T00:36:45 BST" finished-at="2023-07-01T00:36:47 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- anAustralianCominToUKForTourism -->
+      </class> <!-- gov.uk.check.visa.testsuite.VisaConfirmationTest -->
+    </test> <!-- home-office-visa-check -->
+  </suite> <!-- Default Suite -->
+</testng-results>
